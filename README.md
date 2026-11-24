@@ -5,11 +5,11 @@ Final Project Web Development - HITLAB 26.2
 
 ## Tim & Pembagian Peran (Group 9)
 - **[Nama Anggota 1]** - **Frontend & Styling (HTML & Tailwind CSS)**  
-  Membangun seluruh antarmuka web responsif: halaman informasi & skala indeks US AQI, pilihan lokasi umum, tabel/grafik prakiraan 24 jam (`PM2.5`, `PM10`, `US AQI`), serta form & daftar jurnal aktivitas[cite: 6].
+  Membangun seluruh antarmuka web responsif: halaman informasi & skala indeks US AQI, pilihan lokasi umum, tabel/grafik prakiraan 24 jam (`PM2.5`, `PM10`, `US AQI`), serta form & daftar jurnal aktivitas.
 - **[Nama Anggota 2]** - **Frontend Logic & Integrasi (JavaScript & Fetch API)**  
-  Menghubungkan tampilan dengan Backend API, mengatur DOM Manipulation, state loading/empty/error, timestamp pembaruan, serta mekanisme fallback ke snapshot data cadangan[cite: 1, 6].
+  Menghubungkan tampilan dengan Backend API, mengatur DOM Manipulation, state loading/empty/error, timestamp pembaruan, serta mekanisme fallback ke snapshot data cadangan.
 - **[Nama Anggota 3]** - **Backend, API Contract & Deployment (Express.js & Vercel)**  
-  Membangun server Express.js (endpoint prakiraan udara & CRUD jurnal aktivitas), mengintegrasikan adapter penyimpanan persisten, deploy ke Vercel, serta mengelola Pull Request di GitHub[cite: 1, 6].
+  Membangun server Express.js (endpoint prakiraan udara & CRUD jurnal aktivitas), mengintegrasikan adapter penyimpanan persisten, deploy ke Vercel, serta mengelola Pull Request di GitHub.
 
 ## Konvensi Repositori
 - **Struktur Folder:**
