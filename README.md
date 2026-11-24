@@ -1,7 +1,7 @@
 # Group 9 - Udara Sehat Harian: Informasi Kualitas Udara & Catatan Aktivitas (SDG 11.6 & 3.9)
 
 Final Project Web Development - HITLAB 26.2  
-**Studi Kasus:** Jalur B — Pekerja luar ruang mencatat durasi aktivitas dan meninjau perkiraan kondisi kualitas udara pada jam terkait[cite: 6].
+**Studi Kasus:** Jalur B — Pekerja luar ruang mencatat durasi aktivitas dan meninjau perkiraan kondisi kualitas udara pada jam terkait.
 
 ## Tim & Pembagian Peran (3 Anggota)
 - **[Nama Anggota 1]** - **Frontend & Styling (HTML & Tailwind CSS)**  
