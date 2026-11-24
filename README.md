@@ -3,7 +3,7 @@
 Final Project Web Development - HITLAB 26.2  
 **Studi Kasus:** Jalur B — Pekerja luar ruang mencatat durasi aktivitas dan meninjau perkiraan kondisi kualitas udara pada jam terkait.
 
-## Tim & Pembagian Peran (3 Anggota)
+## Tim & Pembagian Peran (Group 9)
 - **[Nama Anggota 1]** - **Frontend & Styling (HTML & Tailwind CSS)**  
   Membangun seluruh antarmuka web responsif: halaman informasi & skala indeks US AQI, pilihan lokasi umum, tabel/grafik prakiraan 24 jam (`PM2.5`, `PM10`, `US AQI`), serta form & daftar jurnal aktivitas[cite: 6].
 - **[Nama Anggota 2]** - **Frontend Logic & Integrasi (JavaScript & Fetch API)**  
