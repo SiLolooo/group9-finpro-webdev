@@ -58,7 +58,7 @@ Final Project Web Development - HITLAB 26.2
 ## Cara Menjalankan di Lokal
 1. Clone repositori ini dengan command:
    `git clone https://github.com/SiLolooo/group9-finpro-webdev.git`
-   *(Atau bisa langsung jalankan `git clone <link-repo>` di terminal)*
+   *(Kamu bisa jalanin di terminal vscode nya langsung)*
 2. Masuk ke folder backend dan install dependencies *(saat tahap Sesi 7–8)*:
    `cd backend && npm install && npm start`
 3. Buka file antarmuka di folder `frontend/` menggunakan **Live Server** di VS Code.
