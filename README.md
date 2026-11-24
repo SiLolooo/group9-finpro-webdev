@@ -43,17 +43,17 @@ Final Project Web Development - HITLAB 26.2
 - **Backend (`CRUD /api/activities`)** ──(Simpan)──► `storageAdapter.js` (JSON)
 
 ## Daftar Endpoint API (Backend)
-- `GET /api/air-quality` — Mengambil prakiraan kualitas udara 24 jam (`PM2.5`, `PM10`, `US AQI`) dari Open-Meteo atau snapshot cadangan[cite: 1]
+- `GET /api/air-quality` — Mengambil prakiraan kualitas udara 24 jam (`PM2.5`, `PM10`, `US AQI`) dari Open-Meteo atau snapshot cadangan
 - `GET /api/activities` — Menampilkan seluruh riwayat catatan aktivitas luar ruang[cite: 1]
-- `POST /api/activities` — Menambah catatan aktivitas baru (nama aktivitas, jam/durasi, lokasi, catatan)[cite: 1]
-- `PUT /api/activities/:id` — Mengubah catatan aktivitas berdasarkan ID[cite: 1]
-- `DELETE /api/activities/:id` — Menghapus catatan aktivitas berdasarkan ID[cite: 1]
+- `POST /api/activities` — Menambah catatan aktivitas baru (nama aktivitas, jam/durasi, lokasi, catatan)
+- `PUT /api/activities/:id` — Mengubah catatan aktivitas berdasarkan ID
+- `DELETE /api/activities/:id` — Menghapus catatan aktivitas berdasarkan ID
 
 ## Tahapan Pengerjaan (Roadmap)
 - **Tahap 1 (Setup & Git):** Accept collaborator, clone repo, isi nama anggota di `README.md` via Pull Request.
-- **Tahap 2 (Frontend UI & Tabel Awal):** Buat layout responsif (HTML + Tailwind CSS) untuk tabel prakiraan 24 jam, penjelasan skala US AQI, dan form jurnal aktivitas[cite: 1].
-- **Tahap 3 (Backend & Integrasi API):** Buat server Express.js untuk mengambil data Open-Meteo (dengan fallback ke file snapshot) serta endpoint CRUD jurnal via `storageAdapter.js`[cite: 1].
-- **Tahap 4 (Deploy & Finalisasi):** Deploy full-stack ke Vercel, update link live demo di `README.md`, dan pastikan atribusi Open-Meteo/CAMS tampil jelas[cite: 1, 5].
+- **Tahap 2 (Frontend UI & Tabel Awal):** Buat layout responsif (HTML + Tailwind CSS) untuk tabel prakiraan 24 jam, penjelasan skala US AQI, dan form jurnal aktivitas.
+- **Tahap 3 (Backend & Integrasi API):** Buat server Express.js untuk mengambil data Open-Meteo (dengan fallback ke file snapshot) serta endpoint CRUD jurnal via `storageAdapter.js`.
+- **Tahap 4 (Deploy & Finalisasi):** Deploy full-stack ke Vercel, update link live demo di `README.md`, dan pastikan atribusi Open-Meteo/CAMS tampil jelas.
 
 ## Cara Menjalankan di Lokal
 1. Clone repositori ini dengan command:
