@@ -1,0 +1,23 @@
+{
+  "status_data": "SNAPSHOT CADANGAN - DATA SIMULASI KUALITAS UDARA JAKARTA",
+  "tanggal_snapshot": "2026-11-24",
+  "sumber": "Open-Meteo / CAMS Air Quality API (Simulasi Regional Jakarta)",
+  "lokasi": {
+    "nama": "Jakarta",
+    "latitude": -6.2,
+    "longitude": 106.8,
+    "timezone": "Asia/Jakarta"
+  },
+  "hourly": {
+    "time": [
+      "2026-11-24T06:00",
+      "2026-11-24T09:00",
+      "2026-11-24T12:00",
+      "2026-11-24T15:00",
+      "2026-11-24T18:00"
+    ],
+    "pm2_5": [28.5, 42.1, 35.0, 31.2, 46.8],
+    "pm10": [45.0, 68.4, 59.2, 52.1, 74.5],
+    "us_aqi": [85, 117, 99, 91, 129]
+  }
+}
