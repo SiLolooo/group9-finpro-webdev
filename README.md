@@ -44,7 +44,7 @@ Final Project Web Development - HITLAB 26.2
 
 ## Daftar Endpoint API (Backend)
 - `GET /api/air-quality` — Mengambil prakiraan kualitas udara 24 jam (`PM2.5`, `PM10`, `US AQI`) dari Open-Meteo atau snapshot cadangan
-- `GET /api/activities` — Menampilkan seluruh riwayat catatan aktivitas luar ruang[cite: 1]
+- `GET /api/activities` — Menampilkan seluruh riwayat catatan aktivitas luar ruang
 - `POST /api/activities` — Menambah catatan aktivitas baru (nama aktivitas, jam/durasi, lokasi, catatan)
 - `PUT /api/activities/:id` — Mengubah catatan aktivitas berdasarkan ID
 - `DELETE /api/activities/:id` — Menghapus catatan aktivitas berdasarkan ID
